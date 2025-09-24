@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related monitor APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "Kamlesh Bhawan - Product Owner"
     email: "kamlesh@eazybank.com"
